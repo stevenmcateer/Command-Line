@@ -1,0 +1,7 @@
+a
+sleep 5
+3
+c
+/var
+p
+e

@@ -1,0 +1,75 @@
+smcateer
+smcateer tty7         :0               Fri Jan 20 12:08    gone - no logout
+
+wtmp begins Sun Jan 15 16:02:24 2017
+total 12
+drwxr-xr-x  3 root     root     4096 Jan 15 16:00 .
+drwxr-xr-x 23 root     root     4096 Jan 15 16:56 ..
+drwxr-xr-x 21 smcateer smcateer 4096 Jan 23 17:02 smcateer
+===== Mid-Day Commander, v0 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+Option?
+
+
+-- Statistics ---
+Elapsed time: -1023700811 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 0
+===== Mid-Day Commander, v0 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+Option?
+
+
+-- Statistics ---
+Elapsed time: -1023696358 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 97
+===== Mid-Day Commander, v0 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+Option?
+
+
+-- Statistics ---
+Elapsed time: -1023692485 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 187
+===== Mid-Day Commander, v0 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+Option?
+
+
+-- Statistics ---
+Elapsed time: -1023691772 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 325
+===== Mid-Day Commander, v0 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+Option?
+
+
+-- Statistics ---
+Elapsed time: -1024689816 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 346
+===== Mid-Day Commander, v0 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+Option?
+Successfully piped input file

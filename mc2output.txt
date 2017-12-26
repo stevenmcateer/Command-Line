@@ -1,0 +1,395 @@
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+New Command?: 
+
+-- Statistics ---
+Elapsed time: 538 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 0
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+New Command?: 
+
+-- Statistics ---
+Elapsed time: 401 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 22
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 546 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 42
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 704 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 67
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 2758 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 92
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 5289 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 117
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+-- Background Processes --
+15576
+15578
+15580
+
+
+-- Statistics ---
+Elapsed time: 841 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 188
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 6616 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 212
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+-- Background Processes --
+15576
+15578
+15580
+
+
+-- Statistics ---
+Elapsed time: 1293 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 284
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 7370 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 308
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+-- Background Processes --
+15576
+15578
+15580
+
+
+-- Statistics ---
+Elapsed time: 543 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 380
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 5550 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 404
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 5438 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 475
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+-- Background Processes --
+
+
+-- Statistics ---
+Elapsed time: 332 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 546
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+
+
+-- Statistics ---
+Elapsed time: 5314 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 566
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+-- Background Processes --
+
+
+-- Statistics ---
+Elapsed time: 731 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 637
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+Illegal Command, No command set at that address
+
+
+-- Statistics ---
+Elapsed time: 916 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 657
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+Illegal Command, No command set at that address
+
+
+-- Statistics ---
+Elapsed time: 912 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 677
+===== Mid-Day Commander, v2 =====
+G’day, Commander! What command would you like to run?
+0. whoami : Prints out the result of the whoamicommand
+1. last   : Prints out the result of the last command
+2. ls     : Prints out the result of a listing on a user-specified path
+3. sleep 10& : User added command
+4. sleep 3 : User added command
+a. Add Command: Adds a new command to the menu
+c. Change Directory: Changes the working directory
+e. Exit: Leave Midday Commander
+p. Print Working Directory: Prints the current working directory
+r. running processes : Print list of running processes
+Option?
+
+Illegal Command, No command set at that address
+
+
+-- Statistics ---
+Elapsed time: 1219 miliseconds
+Page Faults: 0
+Page Faults (reclaimed): 697
+Successfully piped input file
